@@ -110,7 +110,7 @@ def main():
         layout="wide"
     )
 
-    st.title("⚡ CT Fault Detection – AML Dashboard")
+    st.title("CT Fault Detection – AML Dashboard")
     st.write("Interactive dashboard for your **ct_fault_dataset** transformer fault model.")
 
     # Load data
